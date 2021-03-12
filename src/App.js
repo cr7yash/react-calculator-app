@@ -26,6 +26,7 @@ class App extends Component {
     return (
       <div className="app">
         <div className="calc-wrapper">
+          <h1 className="header"> Calculator </h1>
           <Input input={this.state.input} />
           <div className="row">
             <Button handleClick={this.addToInput}>7</Button>
