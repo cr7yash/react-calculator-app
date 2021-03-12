@@ -1,0 +1,11 @@
+.correct-btn {
+  height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.4em;
+  background-color: #000000;
+  color: #fe9241;
+  flex: 1;
+}
